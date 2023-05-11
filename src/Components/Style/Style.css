@@ -1,0 +1,14 @@
+.text {
+    width: 150px;
+    height: 20px;
+    background: wheat;
+    border-radius: 10px;
+    border: 1px solid teal;
+}
+
+.btn {
+    padding: 15px 20px;
+    background: wheat;
+    border-radius: 10px;
+    border: 1px solid teal;
+}
